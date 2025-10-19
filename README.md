@@ -8,4 +8,7 @@ This is the codebase for the paper accepted at ACM Symposium on Cloud Computing 
 - funky-eval: evaluation scripts
 
 ## Contact
+
 [Atsushi Koshiba](https://atsushikoshiba.github.io/), [mail](atsushi.koshiba@tum.de)
+
+[Charalampos Mainas](https://github.com/cmainas)
