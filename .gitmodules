@@ -1,0 +1,12 @@
+[submodule "funky-unikernel"]
+	path = funky-unikernel
+	url = git@github.com:TUM-DSE/funky-unikernel-pub.git
+[submodule "funky-monitor"]
+	path = funky-monitor
+	url = git@github.com:TUM-DSE/funky-monitor-pub.git
+[submodule "funky-eval"]
+	path = funky-eval
+	url = git@github.com:TUM-DSE/funky-eval.git
+[submodule "funky-orchestrator"]
+	path = funky-orchestrator
+	url = git@github.com:TUM-DSE/funky-orchestrator.git
